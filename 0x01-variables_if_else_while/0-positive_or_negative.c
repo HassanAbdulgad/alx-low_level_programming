@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /* the main function
  * It is the the entry point 
  */
+
 int main(void)
 {
 	int n;

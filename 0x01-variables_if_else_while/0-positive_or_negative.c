@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/* the main function
+ * It is the the entry point 
+ */
 int main(void)
 {
 	int n;
@@ -12,15 +12,15 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
-		printf("is positive%d\n",n);
+		printf("is positive %d\n",n);
 	}
        else if (n < 0)
        {
-                printf("is negative%d\n",n);
+                printf("is negative %d\n",n);
        }
        else 
        {
-	         printf(" is zero%d\n",n);
+	         printf(" is zero %d\n",n);
        }       
 	return (0);
 }

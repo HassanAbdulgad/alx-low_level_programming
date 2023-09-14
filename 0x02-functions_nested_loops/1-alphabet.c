@@ -2,8 +2,9 @@
 
 /**
  * print_ alphabet - print all alphabet in lowercase
+ *
+ *print: new line 
  */
-
 void print_alphabet(void)
 {
 	char c;

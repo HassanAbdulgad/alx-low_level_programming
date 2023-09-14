@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
 
@@ -15,7 +15,7 @@ int main(void)
 
 {
 
-putchar('');
+_putchar('_');
 
 _putchar('p');
 

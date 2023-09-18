@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Description: Tests the function  positive_or_negative.
+ * main - Entry point for testing the positive_or_negative function
  *
  * Return: Always 0 (Success)
  */
@@ -13,7 +11,5 @@ int main(void)
 
 	i = 0;
 	positive_or_negative(i);
-
 	return (0);
 }
-

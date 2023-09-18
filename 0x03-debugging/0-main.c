@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Tests the function that prints if an integer is positive or negative.
+ * Description: Tests the function  positive_or_negative.
  *
  * Return: Always 0 (Success)
  */

@@ -7,7 +7,6 @@
  * @age: Second member
  * @owner: Third member
  *
- * Description: just alone dog stuct in  a big kitty world
  */
 struct dog
 {

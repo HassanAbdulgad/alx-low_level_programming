@@ -1,5 +1,5 @@
 #include "lists.h"
-
+#include<stdio.h>
 /**
  * print_list - print list of elements
  * @h: input
